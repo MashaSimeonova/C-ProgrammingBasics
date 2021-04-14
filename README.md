@@ -1,2 +1,2 @@
-# C-ProgrammingBasics
+# C#-ProgrammingBasics
 Basic course tasks repo
